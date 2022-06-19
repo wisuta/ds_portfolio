@@ -1,4 +1,4 @@
-# ds_portfolio
+# Wisuta Data Science Portfolio
 My Data Science portfolio
 
 
