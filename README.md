@@ -7,4 +7,4 @@ The particular project is showed several tecnhiques dealing with the problem sta
 The list of project is as follows:
 
 1. 🚢 Titanic data: Show basic EDA, build ML baseline using sklearn and autoML
-2. 🍚 Wongnai Classification: Show how to tackle with Thai NLP classification proble
+2. 🍚 Wongnai Classification: Show how to tackle with Thai NLP classification problem using 4 approaches: Bag of words, RNN/LSTM, CNN (Pretrained), BERT
